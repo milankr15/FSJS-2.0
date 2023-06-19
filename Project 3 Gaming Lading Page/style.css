@@ -398,3 +398,26 @@ hr {
 .footer-logo {
   margin: 3rem 0;
 }
+
+
+@media (max-width:360px) {
+  .nav-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20%;
+    margin: 20%;
+  }
+  .nav-links-center, .nav-links-right{
+    display: none;
+  }
+  .hero-left{
+    display: block;
+    }
+  .hero-heading{
+    font-size: 80%;
+  }
+  .hero-desc, .hero-btns{
+    display: none;
+  } 
+}

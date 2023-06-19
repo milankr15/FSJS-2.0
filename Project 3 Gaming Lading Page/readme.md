@@ -1,4 +1,12 @@
+
+# live link
+[click here](https://gamingpagesite.netlify.app/)
+
+
+
+
 # Replicate the Following Output
+
 
 `Assests are Provided!`
 
