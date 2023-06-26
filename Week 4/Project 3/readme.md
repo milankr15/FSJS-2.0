@@ -7,4 +7,4 @@
 
 
 
-![output](Output.png)
+![output](output.png)
