@@ -1,0 +1,154 @@
+/* You can not modify anything from the HTML file */
+/* You can only modify the CSS file */
+
+
+.container{
+    max-width: 90%;
+    margin: auto;
+    font-family: 'Poppins', sans-serif; 
+}
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+}
+
+.navbar-container img{
+    width: 8rem;
+}
+
+.list{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    display:flex;
+    list-style-type: none;
+    column-gap: 6rem;
+}
+
+.list li:first-child{
+    border-bottom: 2px solid black;
+}
+
+.button-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-icon svg{
+    margin: 5px 10px 0 0;
+    width: 20px;
+    height: 30px;
+}
+
+.nav-button{
+    font-size: 1.2rem;
+    color: rgb(92, 90, 90);
+    background-color: #fff;
+    padding: 0.2rem 2rem;
+    border-radius: 0.5rem;
+}
+
+.hero-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.person-img img{
+    width: 450px;
+    margin-right: 3rem;
+}
+
+.square,.star,.star1,.globe{
+    position: absolute;
+}
+
+.square{
+    left: 180px;
+    bottom: 60px;
+    z-index: -1;
+}
+.globe{
+    left: 55%;
+    top: 12%;
+}
+
+.globe img{
+    width: 50px;
+}
+
+.star{
+    top: 150px;
+    right: 150px;
+}
+
+.star img{
+    width: 50px;
+}
+
+.star1{
+    left: 45%;
+    bottom: 15%;
+}
+
+.star1 img{
+    width: 40px;
+}
+
+.hero-container-right{
+    width: 60%;
+    text-align: center;
+}
+
+.hero-heading{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 3.5rem;
+    margin-top: 5rem;
+}
+
+.hero-description{
+    font-size: small;
+    color: rgb(102, 100, 100);
+    width: 70%;
+    height: 100%;
+    margin: auto;
+    margin-bottom: 3rem;
+}
+
+.button-email,.button-join{
+    font-size: 1rem;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+    margin-top:3rem;
+    margin-bottom: 6rem;
+}
+
+.button-email{
+    padding: 0.2rem 1rem;
+    color: #000;
+    background-color: #fff;
+}
+
+
+.button-join{
+    padding: 0.2rem;
+    color: #fff;
+    background-color: #000;
+}
+
+
+.contact-heading{
+    color: rgb(102, 100, 100);
+    font-weight: 500;
+    margin: 0.5rem 0;
+}
+
+.icons img{
+    width: 30px;
+    margin:0 0.5rem;
+}

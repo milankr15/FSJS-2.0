@@ -3,7 +3,7 @@
 ## Output
 
 
-### Live Site URL: [Visit here ](https://crypto-market-50ccb6.netlify.app/)
+### Live Site URL: [Visit here ](https://crypto-market-cb529d.netlify.app/)
 
 
 
